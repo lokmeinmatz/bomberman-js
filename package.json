@@ -1,0 +1,26 @@
+{
+  "name": "bomberman",
+  "version": "0.1.0",
+  "description": "play Bomberman in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokmeinmatz/bomberman-js.git"
+  },
+  "author": "lokmeinmatz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokmeinmatz/bomberman-js/issues"
+  },
+  "homepage": "https://github.com/lokmeinmatz/bomberman-js#readme",
+  "dependencies": {
+    "pixi.js": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/pixi.js": "^4.8.8",
+    "typescript": "^3.5.3"
+  }
+}
